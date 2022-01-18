@@ -1,0 +1,15 @@
+E:\NasTech\Day 2\bin\Debug\net6.0\Day 2.exe
+E:\NasTech\Day 2\bin\Debug\net6.0\Day 2.deps.json
+E:\NasTech\Day 2\bin\Debug\net6.0\Day 2.runtimeconfig.json
+E:\NasTech\Day 2\bin\Debug\net6.0\Day 2.dll
+E:\NasTech\Day 2\bin\Debug\net6.0\ref\Day 2.dll
+E:\NasTech\Day 2\bin\Debug\net6.0\Day 2.pdb
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.csproj.AssemblyReference.cache
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.AssemblyInfoInputs.cache
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.AssemblyInfo.cs
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.csproj.CoreCompileInputs.cache
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.dll
+E:\NasTech\Day 2\obj\Debug\net6.0\ref\Day 2.dll
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.pdb
+E:\NasTech\Day 2\obj\Debug\net6.0\Day 2.genruntimeconfig.cache
